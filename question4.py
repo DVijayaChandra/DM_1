@@ -1,31 +1,24 @@
 def question4_1():
-    answer = ['nominal', 'oedinal']
+    # answer = ['string', 'string']
     return answer
 
 def question4_2():
-    answer = ['interval', 'ordinal']
     return answer
 
 def question4_3():
-    answer = ['ratio', 'ordinal'] 
-    return answer
+    return answer 
 
 def question4_4():
-    answer = ['ratio', 'ordinal']
     return answer
 
 def question4_5():
-    answer = ['ratio', 'ratio']
     return answer
 
 def question4_6():
-    answer = ['ratio', 'ordinal']
     return answer
 
 def question4_7():
-    answer = ['ratio', 'ratio']
     return answer
 
 def question4_8():
-    answer = ['ratio', 'interval']
-    return answer
+    return answer
